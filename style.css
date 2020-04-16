@@ -1,0 +1,21 @@
+
+html{
+    height: 150vh !important;
+}
+body{
+    height: 100vh !important;
+}
+.bg-secondary{
+    height: 100vh !important;
+}
+.row{
+    height: 100vh !important;
+}
+.box{
+    height: 90vh !important;
+}
+.grid-stack{
+    max-height: 80vh !important;
+    overflow-y:hidden; !important;
+    height: 500px !important;
+}
